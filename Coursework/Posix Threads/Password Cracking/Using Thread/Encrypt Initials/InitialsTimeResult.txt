@@ -1,0 +1,2 @@
+The explored solutions are: 878800 
+The time duration is 8001681938579ns or 8001.681938579s

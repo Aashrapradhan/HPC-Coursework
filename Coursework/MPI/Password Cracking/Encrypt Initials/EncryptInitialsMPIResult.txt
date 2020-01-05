@@ -1,0 +1,4 @@
+Instance number 1:The explored solutions are: 3380000
+The time duration is 25667938025006ns or 25667.938025006s
+The time duration is 25667938009722ns or 25667.938009722s
+The time duration is 25667938851350ns or 25667.938851350s

@@ -1,0 +1,5 @@
+Found password: AA0182
+Found password: NA1298
+Found password: NA5678
+Found password: AA7572
+Time elapsed was 70814374ns or 0.070814374s
